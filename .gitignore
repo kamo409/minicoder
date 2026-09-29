@@ -1,0 +1,5 @@
+key.txt
+session.json
+__pycache__/
+*.pyc
+buggy_demo*
